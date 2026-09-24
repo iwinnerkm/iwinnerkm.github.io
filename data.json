@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Engineer",
+        "company": "DoorDash",
+        "company_logo":"https://iwinnerkm.github.io/res/dd.png",
+        "description": "Full-time",
+        "location": "Toronto, Ontario, Canada",
+        "employment_type": "Full-time",
+        "startDate": "Dec 2021",
+        "endDate": "Present",
+        "skills": [
+            "Continuous Integration and Continuous Delivery (CI/CD)",
+            "Project Estimation",
+            "Team Leadership",
+            "Java",
+            "Backend",
+            "Kotlin",
+            "Microservices",
+            "Amazon Web Services (AWS)",
+            "Redis",
+            "Android Development",
+            "Apache Kafka",
+            "Kubernetes"
+        ]
+    },
+    {
+        "title": "Software Engineer",
+        "company": "LinkedIn",
+        "company_logo":"https://iwinnerkm.github.io/res/in.png",
+        "description": "Full-time",
+        "location": "Bengaluru, Karnataka, India",
+        "employment_type": "Full-time",
+        "startDate": "Apr 2020",
+        "endDate": "Oct 2021",
+        "skills": [
+            "Continuous Integration and Continuous Delivery (CI/CD)",
+            "Project Estimation",
+            "Team Leadership",
+            "Java",
+            "Backend",
+            "Kotlin",
+            "Microservices",
+            "Amazon Web Services (AWS)",
+            "Redis",
+            "Android Development",
+            "Apache Kafka",
+            "Kubernetes"
+        ]
+    },
+    {
+        "title": "Senior Software Engineer",
+        "company": "Paytm Money",
+        "company_logo":"https://iwinnerkm.github.io/res/money.png",
+        "description": "Full-time",
+        "location": "Bengaluru, Karnataka, India",
+        "employment_type": "Full-time",
+        "startDate": "Apr 2019",
+        "endDate": "Feb 2020"
+    },
+    {
+        "title": "Software Engineer",
+        "company": "Paytm Money",
+        "company_logo":"https://iwinnerkm.github.io/res/money.png",
+        "description": "Full-time",
+        "location": "Bengaluru Area, India",
+        "employment_type": "Full-time",
+        "startDate": "Dec 2017",
+        "endDate": "Mar 2019"
+    },
+    {
+        "title": "Android Engineer",
+        "company": "Kuliza",
+        "company_logo":"https://iwinnerkm.github.io/res/service.png",
+        "description": "Full-time",
+        "location": "Bengaluru, Karnataka, India",
+        "employment_type": "Full-time",
+        "startDate": "Jan 2016",
+        "endDate": "Nov 2017"
+    }
+]
